@@ -1,6 +1,6 @@
-# ✨ IDEAPEDYUDI CODE  
+# ✨ IDEAPEDCODE  
 
-**IDEAPEDYUDI’s space for coding experiments, starter kits, and open source projects.**  
+**IDEAPEDCODE space for coding experiments, starter kits, and open source projects.**  
 *Covering Frontend, Backend, LLM/AI, and Web3.*  
 
 ## 📂 Repository Highlights
