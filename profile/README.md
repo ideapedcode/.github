@@ -4,10 +4,10 @@
 *Covering Frontend, Backend, LLM/AI, and Web3.*  
 
 ## 📂 Repository Highlights
-- 🎨 **Frontend** → React, Next.js, modern UI/UX starterpack
-- 🛠 **Backend** → REST APIs, microservices, scalable systems starterpack
-- 🤖 **LLM & AI** → OCR, NLP, Large Language Models, and automation starterpack
-- 🔗 **Web3** → Smart contracts, dApps, blockchain starterpack
+- 🎨 **Frontend** → React, Next.js, modern UI/UX
+- 🛠 **Backend** → REST APIs, microservices, scalable systems
+- 🤖 **LLM & AI** → OCR, NLP, Large Language Models, and automation
+- 🔗 **Web3** → Smart contracts, dApps, blockchain
 - 🧪 **Sandbox** → Learning starterpack, playgrounds & experiments
 
 ## 🛠 Tech Stack
