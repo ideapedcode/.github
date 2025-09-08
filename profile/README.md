@@ -1,35 +1,29 @@
-# ✨ IDEAPEDYUDI CODE
+# ✨ IDEAPEDYUDI CODE  
 
-**IDEAPEDYUDI’s space for coding experiments, starter kits, and open source projects.**
-
----
+**IDEAPEDYUDI’s space for coding experiments, starter kits, and open source projects.**  
+*Covering Frontend, Backend, LLM/AI, and Web3.*  
 
 ## 📂 Repository Highlights
-- 🚀 **Starter Kits** → Boilerplate & base projects (Express, Node.js, etc.)
-- 🧪 **Sandbox** → Experimental projects & learning playgrounds
-- 🌍 **Open Source** → Tools, utilities, and packages for developers
-
----
+- 🎨 **Frontend** → React, Next.js, modern UI/UX experiments  
+- 🛠 **Backend** → REST APIs, microservices, scalable systems  
+- 🤖 **LLM & AI** → OCR, NLP, Large Language Models, and automation  
+- 🔗 **Web3** → Smart contracts, dApps, blockchain integrations  
+- 🧪 **Sandbox** → Learning playgrounds & experiments  
 
 ## 🛠 Tech Stack
-- Node.js / Express  
-- MongoDB, Redis, RabbitMQ  
-- Docker, Vite  
-- TypeScript  
+- **Frontend** → React, Next.js, TailwindCSS, Vite  
+- **Backend** → Node.js, Express, TypeScript  
+- **Data & Infra** → MongoDB, Redis, RabbitMQ, Docker  
+- **AI/LLM** → Python, LangChain, TFLite, Transformers  
+- **Web3** → Solidity, Hardhat, Ethers.js, Web3.js  
 
----
+## 🎯 Mission  
+Build, learn, and share code —  
+from **Frontend** to **Backend**,  
+bridging **AI (LLM)** and **Web3** into real-world apps.  
 
-## 🎯 Goals
-- Learn & share code from basic to advanced  
-- Build reusable backend starter kits  
-- Experiment with microservices & modern tools  
-
----
-
-## 🤝 Contributing
+## 🤝 Contributing  
 Pull requests and ideas are welcome. Let’s collaborate and grow together!  
 
----
-
-## 📫 Contact
+## 📫 Contact  
 - GitHub: [@ideapedyudi](https://github.com/ideapedyudi)
