@@ -1,4 +1,4 @@
-# ✨ IDEAPEDCODE  
+# ✨ IDEAPEDCODE 🇮🇩
 
 **IDEAPEDCODE space for coding experiments, starter kits, and open source projects.**  
 *Covering Frontend, Backend, LLM/AI, and Web3.*  
