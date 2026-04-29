@@ -1,6 +1,6 @@
 # ✨ IDEAPEDCODE
 
-**IDEAPEDCODE space for coding experiments,project base.**  
+**IDEAPEDCODE space for project public.**  
 *Covering Frontend, Backend, LLM/AI, and Web3.*  
 
 ## 📂 Repository Highlights
